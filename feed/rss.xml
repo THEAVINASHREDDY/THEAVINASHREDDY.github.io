@@ -11,8 +11,8 @@
 <title>My GitHub Pages RSS Feed</title>
 <link>https://theavinashreddy.github.io</link>
 </image>
-
-<!-- First Article -->
+ 
+       <!-- First Article -->
 <item>
 <title><![CDATA[<div style="text-align:center; color:blue;">test</div>]]></title>
 <link>https://www.test1.co.uk/</link>
@@ -22,15 +22,16 @@
 <guid isPermaLink="true">https://www.test1.co.uk/</guid>
 <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
 <content:encoded><![CDATA[
-    <div style="font-family:Arial, sans-serif; font-size:16px;">
-        Every morning is an opportunity to start fresh. There is an unspoken power in the silence of the early hours, a promise of new things to come.
-        It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.
-    </div>
+<p style="font-family:Arial, sans-serif; font-size:16px;">
+    Every morning is an opportunity to start fresh.<br>
+    There is an unspoken power in the silence of the early hours, a promise of new things to come.<br>
+    It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.
+</p>
 ]]></content:encoded>
 <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
 </item>
-
-<!-- Second Article -->
+ 
+       <!-- Second Article -->
 <item>
 <title><![CDATA[<div style="text-align:center; color:blue;">test2</div>]]></title>
 <link>https://www.test2.co.uk/</link>
@@ -40,15 +41,16 @@
 <guid isPermaLink="true">https://www.test2.co.uk/</guid>
 <pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
 <content:encoded><![CDATA[
-    <div style="font-family:Arial, sans-serif; font-size:16px;">
-        When I wake up, I take a moment to appreciate the quiet. It’s a reminder that there’s a whole day ahead, filled with tasks and conversations, but this stillness is mine.
-        In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.
-    </div>
+<p style="font-family:Arial, sans-serif; font-size:16px;">
+    When I wake up, I take a moment to appreciate the quiet.<br>
+    It’s a reminder that there’s a whole day ahead, filled with tasks and conversations.<br>
+    In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.
+</p>
 ]]></content:encoded>
 <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
 </item>
-
-<!-- Third Article -->
+ 
+       <!-- Third Article -->
 <item>
 <title><![CDATA[<div style="text-align:center; color:blue;">test3</div>]]></title>
 <link>https://www.test3.co.uk/</link>
@@ -58,10 +60,11 @@
 <guid isPermaLink="true">https://www.test3.co.uk/</guid>
 <pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
 <content:encoded><![CDATA[
-    <div style="font-family:Arial, sans-serif; font-size:16px;">
-        The first thoughts that cross my mind often set the tone for my day. I try to focus on gratitude, thinking about the simple things that bring me joy.
-        It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.
-    </div>
+<p style="font-family:Arial, sans-serif; font-size:16px;">
+    The first thoughts that cross my mind often set the tone for my day.<br>
+    I try to focus on gratitude, thinking about the simple things that bring me joy.<br>
+    It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.
+</p>
 ]]></content:encoded>
 <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
 </item>
