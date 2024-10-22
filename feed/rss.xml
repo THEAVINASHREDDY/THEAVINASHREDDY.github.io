@@ -1,0 +1,28 @@
+<!-- feed/rss.xml -->
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>My GitHub Pages RSS Feed</title>
+<link>
+https://THEAVINASHREDDY.github.io</link>
+<description>A feed of my latest articles</description>
+<item>
+<title>test</title>
+<link>
+https://www.test1.co.uk/</link>
+<description>test 1 article</description>
+</item>
+<item>
+<title>test2</title>
+<link>
+https://www.test2.co.uk/</link>
+<description>test 2 article</description>
+</item>
+<item>
+<title>test3</title>
+<link>
+https://www.test3.co.uk/</link>
+<description>test 3 article</description>
+</item>
+</channel>
+</rss>
