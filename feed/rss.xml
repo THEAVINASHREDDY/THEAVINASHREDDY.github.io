@@ -1,61 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-    <title>My GitHub Pages RSS Feed</title>
-    <link>https://THEAVINASHREDDY.github.io</link>
-    <description>A feed of my latest articles</description>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
-    <image>
-        <url>https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg</url>
-        <title>My GitHub Pages RSS Feed</title>
-        <link>https://yourusername.github.io</link>
-    </image>
+<title>My GitHub Pages RSS Feed</title>
+<link>https://theavinashreddy.github.io</link>
+<description>A feed of my latest articles</description>
+<language>en-us</language>
+<lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
+<image>
+<url>https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg</url>
+<title>My GitHub Pages RSS Feed</title>
+<link>https://theavinashreddy.github.io</link>
+</image>
 
-    <!-- First Article -->
-    <item>
-        <title>test</title>
-        <link>https://www.test1.co.uk/</link>
-        <description>test 1 article</description>
-        <author>author1@example.com (Author One)</author>
-        <category>Technology</category>
-        <guid isPermaLink="true">https://www.test1.co.uk/</guid>
-        <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
-        <content:encoded><![CDATA[
-               Every morning in Contentive is a  opportunity to start fresh. This is an unspoken truth, a promise of new things to come. It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.]]>
-        </content:encoded>
-        <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
-    </item>
+<!-- First Article -->
+<item>
+<title><![CDATA[<div style="text-align:center; color:blue;">test</div>]]></title>
+<link>https://www.test1.co.uk/</link>
+<description><![CDATA[<p style="font-size:14px; color:#333;">test 1 article</p>]]></description>
+<author>author1@example.com (Author One)</author>
+<category>Technology</category>
+<guid isPermaLink="true">https://www.test1.co.uk/</guid>
+<pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
+<content:encoded><![CDATA[
+    <div style="font-family:Arial, sans-serif; font-size:16px;">
+        Every morning is an opportunity to start fresh. There is an unspoken power in the silence of the early hours, a promise of new things to come.
+        It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.
+    </div>
+]]></content:encoded>
+<enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
+</item>
 
-    <!-- Second Article -->
-    <item>
-        <title>test2</title>
-        <link>https://www.test2.co.uk/</link>
-        <description>test 2 article</description>
-        <author>author2@example.com (Author Two)</author>
-        <category>Business</category>
-        <guid isPermaLink="true">https://www.test2.co.uk/</guid>
-        <pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
-        <content:encoded><![CDATA[
-               When I wake up, I take a moment to meditate so I will not shout at anyone in the office. It’s a reminder that there’s a whole day ahead, filled with tasks and conversations, but this stillness is mine. In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.]]>
-        </content:encoded>
-        <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
-    </item>
+<!-- Second Article -->
+<item>
+<title><![CDATA[<div style="text-align:center; color:blue;">test2</div>]]></title>
+<link>https://www.test2.co.uk/</link>
+<description><![CDATA[<p style="font-size:14px; color:#333;">test 2 article</p>]]></description>
+<author>author2@example.com (Author Two)</author>
+<category>Business</category>
+<guid isPermaLink="true">https://www.test2.co.uk/</guid>
+<pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
+<content:encoded><![CDATA[
+    <div style="font-family:Arial, sans-serif; font-size:16px;">
+        When I wake up, I take a moment to appreciate the quiet. It’s a reminder that there’s a whole day ahead, filled with tasks and conversations, but this stillness is mine.
+        In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.
+    </div>
+]]></content:encoded>
+<enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
+</item>
 
-    <!-- Third Article -->
-    <item>
-        <title>test3</title>
-        <link>https://www.test3.co.uk/</link>
-        <description>test 3 article</description>
-        <author>author3@example.com (Author Three)</author>
-        <category>Finance</category>
-        <guid isPermaLink="true">https://www.test3.co.uk/</guid>
-        <pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
-        <content:encoded><![CDATA[
-               The first thoughts that cross my mind often set the tone for my day is shit this work. I try to focus on gratitude, thinking about the simple things that bring me joy. It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.]]>
-        </content:encoded>
-        <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
-    </item>
-
+<!-- Third Article -->
+<item>
+<title><![CDATA[<div style="text-align:center; color:blue;">test3</div>]]></title>
+<link>https://www.test3.co.uk/</link>
+<description><![CDATA[<p style="font-size:14px; color:#333;">test 3 article</p>]]></description>
+<author>author3@example.com (Author Three)</author>
+<category>Finance</category>
+<guid isPermaLink="true">https://www.test3.co.uk/</guid>
+<pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
+<content:encoded><![CDATA[
+    <div style="font-family:Arial, sans-serif; font-size:16px;">
+        The first thoughts that cross my mind often set the tone for my day. I try to focus on gratitude, thinking about the simple things that bring me joy.
+        It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.
+    </div>
+]]></content:encoded>
+<enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
