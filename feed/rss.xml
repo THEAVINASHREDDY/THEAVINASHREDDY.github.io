@@ -12,17 +12,17 @@
 <link>https://theavinashreddy.github.io</link>
 </image>
 
-       <!-- First Article -->
+<!-- First Article -->
 <item>
-<title><![CDATA[<p style="font-size:14px; color:#333;">SHIT 1</p>]]></title>
+<title>SHIT 1</title>
 <link>https://www.test1.co.uk/</link>
-<description><![CDATA[<p style="font-size:14px; color:#333;">test 1 article</p>]]></description>
+<description>test 1 article</description>
 <author>author1@example.com (Author One)</author>
 <category>Technology</category>
 <guid isPermaLink="true">https://www.test1.co.uk/</guid>
 <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
 <content:encoded><![CDATA[
-<p style="font-family:Arial, sans-serif; font-size:16px;">
+<p>
     Every morning is an opportunity to start fresh.<br>
     There is an unspoken power in the silence of the early hours, a promise of new things to come.<br>
     It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.
@@ -32,17 +32,17 @@
 <media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
 </item>
 
-       <!-- Second Article -->
+<!-- Second Article -->
 <item>
-<title><![CDATA[<p style="text-align:center; color:blue; font-size:20px;">SHIT2</p>]]></title>
+<title>SHIT 2</title>
 <link>https://www.test2.co.uk/</link>
-<description><![CDATA[<p style="font-size:14px; color:#333;">test 2 article</p>]]></description>
+<description>test 2 article</description>
 <author>author2@example.com (Author Two)</author>
 <category>Business</category>
 <guid isPermaLink="true">https://www.test2.co.uk/</guid>
 <pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
 <content:encoded><![CDATA[
-<p style="font-family:Arial, sans-serif; font-size:16px;">
+<p>
     When I wake up, I take a moment to appreciate the quiet.<br>
     It’s a reminder that there’s a whole day ahead, filled with tasks and conversations.<br>
     In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.
@@ -52,17 +52,17 @@
 <media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
 </item>
 
-       <!-- Third Article -->
+<!-- Third Article -->
 <item>
-<title><![CDATA[<p style="text-align:center; color:blue; font-size:20px;">SHIT3</p>]]></title>
+<title>SHIT 3</title>
 <link>https://www.test3.co.uk/</link>
-<description><![CDATA[<p style="font-size:14px; color:#333;">test 3 article</p>]]></description>
+<description>test 3 article</description>
 <author>author3@example.com (Author Three)</author>
 <category>Finance</category>
 <guid isPermaLink="true">https://www.test3.co.uk/</guid>
 <pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
 <content:encoded><![CDATA[
-<p style="font-family:Arial, sans-serif; font-size:16px;">
+<p>
     The first thoughts that cross my mind often set the tone for my day.<br>
     I try to focus on gratitude, thinking about the simple things that bring me joy.<br>
     It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.
