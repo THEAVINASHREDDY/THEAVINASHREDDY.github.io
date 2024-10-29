@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<title>My GitHub Pages RSS Feed</title>
-<link>https://THEAVINASHREDDY.github.io</link>
-<description>A feed of my latest articles</description>
-<language>en-us</language>
-<lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
-<image>
-<url>https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg</url>
-<title>My GitHub Pages RSS Feed</title>
-<link>https://theavinashreddy.github.io</link>
-</image>
+    <title>My GitHub Pages RSS Feed</title>
+    <link>https://THEAVINASHREDDY.github.io</link>
+    <description>A feed of my latest articles</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
+    <image>
+        <url>https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg</url>
+        <title>My GitHub Pages RSS Feed</title>
+        <link>https://theavinashreddy.github.io</link>
+    </image>
 
-<!-- First Article -->
-<item>
-<title>SHIT 1</title>
-<link>https://www.test1.co.uk/</link>
-<description>test 1 article</description>
-<author>author1@example.com (Author One)</author>
-<category>Technology</category>
-<guid isPermaLink="true">https://www.test1.co.uk/</guid>
-<pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
-<content:encoded><![CDATA[
-<p>
-    Every morning is an opportunity to start fresh.<br>
-    There is an unspoken power in the silence of the early hours, a promise of new things to come.<br>
-    It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.
-</p>
-]]></content:encoded>
-<enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
-</item>
+    <!-- First Article -->
+    <item>
+        <title><![CDATA[<a target="_blank" rel="noopener noreferrer nofollow" class="link" href="https://www.test1.co.uk/" style="color: null"><strong>SHIT 1</strong></a>]]></title>
+        <link>https://www.test1.co.uk/</link>
+        <description>test 1 article</description>
+        <author>author1@example.com (Author One)</author>
+        <category>Technology</category>
+        <guid isPermaLink="true">https://www.test1.co.uk/</guid>
+        <pubDate>Tue, 22 Oct 2024 08:00:00 +0000</pubDate>
+        <content:encoded><![CDATA[
+        <p>
+            Every morning is an opportunity to start fresh.<br>
+            There is an unspoken power in the silence of the early hours, a promise of new things to come.<br>
+            It’s a time when I remind myself to let go of yesterday's worries and embrace today's possibilities.
+        </p>
+        ]]></content:encoded>
+        <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
+        <media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
+    </item>
 
-<!-- Second Article -->
-<item>
-<title>SHIT 2</title>
-<link>https://www.test2.co.uk/</link>
-<description>test 2 article</description>
-<author>author2@example.com (Author Two)</author>
-<category>Business</category>
-<guid isPermaLink="true">https://www.test2.co.uk/</guid>
-<pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
-<content:encoded><![CDATA[
-<p>
-    When I wake up, I take a moment to appreciate the quiet.<br>
-    It’s a reminder that there’s a whole day ahead, filled with tasks and conversations.<br>
-    In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.
-</p>
-]]></content:encoded>
-<enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
-</item>
+    <!-- Second Article -->
+    <item>
+        <title><![CDATA[<a target="_blank" rel="noopener noreferrer nofollow" class="link" href="https://www.test2.co.uk/" style="color: null"><strong>SHIT 2</strong></a>]]></title>
+        <link>https://www.test2.co.uk/</link>
+        <description>test 2 article</description>
+        <author>author2@example.com (Author Two)</author>
+        <category>Business</category>
+        <guid isPermaLink="true">https://www.test2.co.uk/</guid>
+        <pubDate>Tue, 22 Oct 2024 09:00:00 +0000</pubDate>
+        <content:encoded><![CDATA[
+        <p>
+            When I wake up, I take a moment to appreciate the quiet.<br>
+            It’s a reminder that there’s a whole day ahead, filled with tasks and conversations.<br>
+            In those brief seconds, I gather my thoughts and prepare myself for whatever comes next.
+        </p>
+        ]]></content:encoded>
+        <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
+        <media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
+    </item>
 
-<!-- Third Article -->
-<item>
-<title>SHIT 3</title>
-<link>https://www.test3.co.uk/</link>
-<description>test 3 article</description>
-<author>author3@example.com (Author Three)</author>
-<category>Finance</category>
-<guid isPermaLink="true">https://www.test3.co.uk/</guid>
-<pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
-<content:encoded><![CDATA[
-<p>
-    The first thoughts that cross my mind often set the tone for my day.<br>
-    I try to focus on gratitude, thinking about the simple things that bring me joy.<br>
-    It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.
-</p>
-]]></content:encoded>
-<enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
-<media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
-</item>
+    <!-- Third Article -->
+    <item>
+        <title><![CDATA[<a target="_blank" rel="noopener noreferrer nofollow" class="link" href="https://www.test3.co.uk/" style="color: null"><strong>SHIT 3</strong></a>]]></title>
+        <link>https://www.test3.co.uk/</link>
+        <description>test 3 article</description>
+        <author>author3@example.com (Author Three)</author>
+        <category>Finance</category>
+        <guid isPermaLink="true">https://www.test3.co.uk/</guid>
+        <pubDate>Tue, 22 Oct 2024 10:00:00 +0000</pubDate>
+        <content:encoded><![CDATA[
+        <p>
+            The first thoughts that cross my mind often set the tone for my day.<br>
+            I try to focus on gratitude, thinking about the simple things that bring me joy.<br>
+            It’s easy to get lost in the busyness of life, but the morning gives me a chance to ground myself.
+        </p>
+        ]]></content:encoded>
+        <enclosure url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" type="image/jpeg"/>
+        <media:thumbnail url="https://www.hrdconnect.com/wp-content/uploads/2024/10/iStock-1004026742.jpg" />
+    </item>
 
 </channel>
 </rss>
