@@ -1,0 +1,39 @@
+DUGGEMPUDI AVINASH
++91 8333079474 ⋄ Mumbai, INDIA
+duggempudireddy1233@gmail.com ⋄ LinkedIn ⋄ Portfolio ⋄ GitHub
+OBJECTIVE
+Data Scientist with 2+ years of experience building ML models and AI-powered automation systems. Specialized
+in behavioral modeling, NLP-based personalization, and deploying GenAI solutions that drive business impact.
+EDUCATION
+Lovely Professional University Punjab, India
+Bachelor of Technology in Computer Science Engineering (Hons. in Data Science – AI/ML) 2020 – 2024
+WORK EXPERIENCE
+ClickZ Media· A Blenheim Chalcot Venture Specialist Data Scientist Product Graduate Mumbai / London
+Jul 2025 – Present
+Nov 2023 – Jul 2025
+• Developed a subscriber interest modeling system by engineering behavioral features from 2M+ email engage-
+ment events, applying NLP-based topic extraction on click URLs, and building user embedding vectors to
+predict content preferences across 200K+ B2B newsletter subscribers.
+• Contributed to the architecture and build of Audience Align, a GenAI SaaS product for ICP-driven content
+creation.
+• Defined and built agentic content workflows for 50+ publications, reducing costs by 80% and manual effort
+by 75% while maintaining quality.
+Blenheim Chalcot India Mumbai
+Associate Data Scientist Data Science Intern Mar 2024 – Present
+Jun 2023 - Mar 2024
+• Contributed to BC-CodeInterpreter, enabling financial data analysis through natural language queries and
+improving efficiency and security.
+• Designed and implemented an AI-powered Podcast Debater that converts weekly news into interactive
+speaker–host podcasts, reducing cost by 90% and time by 95%.
+• Enhanced the L&D platform with multilingual text-to-speech (Azure Whisper), expanding accessibility and
+engagement.
+ACHIEVEMENTS
+• Star Performer (Oct 2024 – Mar 2025): Recognized for innovation in Generative AI and automation,
+driving impact through clarity, momentum, and strategic execution.
+• Best Employee (Oct – Dec 2023): Honored for exceptional performance and contributions to key projects.
+SKILLS
+• Programming & ML: Python, Scikit-learn, TensorFlow, PyTorch, REST APIs, GraphQL
+• LLMs & Frameworks: OpenAI, Anthropic Claude, Ollama, LangChain, LlamaIndex, Hugging Face
+• Cloud & DevOps: AWS, Azure, Vercel, Docker, CI/CD Pipelines
+• Data & Databases: MySQL, Faiss, ChromaDB, Pinecone
+• Automation & Tools: Microsoft Power Platform, Zapier, n8n, make.com, Git, Postman
