@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import postsData from '../data/posts.json';
+import { getVisiblePosts } from '../lib/posts';
 
-const BlogPreview = () => {
-  const posts = postsData.posts || [];
+const BlogPreview = ({ isLoading = false }) => {
+  const posts = getVisiblePosts();
   const latest = posts.slice(0, 3);
 
   return (
@@ -23,9 +23,25 @@ const BlogPreview = () => {
           </Link>
         </div>
 
-        {latest.length === 0 ? (
+        {isLoading ? (
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[0, 1, 2].map((item) => (
+              <div key={item} className="bg-slate-800/40 border border-slate-700 rounded-2xl p-6">
+                <div className="skeleton-line w-2/3 h-3 mb-5"></div>
+                <div className="skeleton-line w-4/5 h-6 mb-4"></div>
+                <div className="skeleton-line w-full h-4 mb-2"></div>
+                <div className="skeleton-line w-11/12 h-4 mb-2"></div>
+                <div className="skeleton-line w-2/3 h-4 mb-5"></div>
+                <div className="flex gap-2">
+                  <div className="skeleton-line w-16 h-6 rounded-full"></div>
+                  <div className="skeleton-line w-16 h-6 rounded-full"></div>
+                </div>
+              </div>
+            ))}
+          </div>
+        ) : latest.length === 0 ? (
           <div className="text-slate-500 font-mono text-sm border border-slate-800 rounded-2xl p-8 text-center">
-            No posts yet. Your first signal log will show up here.
+            No posts yet.
           </div>
         ) : (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

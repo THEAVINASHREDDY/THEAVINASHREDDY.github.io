@@ -1,9 +1,15 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import postsData from '../data/posts.json';
+import { getVisiblePosts } from '../lib/posts';
 
 const BlogIndex = () => {
-  const posts = postsData.posts || [];
+  const posts = getVisiblePosts();
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    const timer = window.setTimeout(() => setIsLoading(false), 420);
+    return () => window.clearTimeout(timer);
+  }, []);
 
   return (
     <div className="min-h-screen bg-slate-900 text-white">
@@ -16,9 +22,27 @@ const BlogIndex = () => {
           <Link to="/" className="text-cyan-300 hover:text-cyan-200 font-mono text-sm">Back to Home</Link>
         </div>
 
-        {posts.length === 0 ? (
+        {isLoading ? (
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[0, 1, 2, 3, 4, 5].map((item) => (
+              <div key={item} className="bg-slate-800/40 border border-slate-700 rounded-2xl overflow-hidden">
+                <div className="h-48 w-full skeleton-line"></div>
+                <div className="p-6">
+                  <div className="skeleton-line w-2/3 h-3 mb-4"></div>
+                  <div className="skeleton-line w-4/5 h-6 mb-4"></div>
+                  <div className="skeleton-line w-full h-4 mb-2"></div>
+                  <div className="skeleton-line w-10/12 h-4 mb-5"></div>
+                  <div className="flex gap-2">
+                    <div className="skeleton-line w-16 h-6 rounded-full"></div>
+                    <div className="skeleton-line w-16 h-6 rounded-full"></div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        ) : posts.length === 0 ? (
           <div className="text-slate-500 font-mono text-sm border border-slate-800 rounded-2xl p-8 text-center">
-            No posts yet. Add your first Notion post to see it here.
+            No posts yet.
           </div>
         ) : (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

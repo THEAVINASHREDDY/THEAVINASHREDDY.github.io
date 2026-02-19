@@ -1,12 +1,11 @@
 import React from 'react';
 import { Link, useParams } from 'react-router-dom';
-import postsData from '../data/posts.json';
 import { renderBlocks } from '../lib/notion.jsx';
+import { getVisiblePostBySlug } from '../lib/posts';
 
 const BlogPost = () => {
   const { slug } = useParams();
-  const posts = postsData.posts || [];
-  const post = posts.find(p => p.slug === slug);
+  const post = getVisiblePostBySlug(slug);
 
   if (!post) {
     return (
